@@ -1,0 +1,30 @@
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.exe
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.deps.json
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.runtimeconfig.json
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.dll
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.pdb
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.csproj.AssemblyReference.cache
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.AssemblyInfoInputs.cache
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.AssemblyInfo.cs
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.csproj.CoreCompileInputs.cache
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.dll
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\refint\InClass-Recursion.dll
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.pdb
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.genruntimeconfig.cache
+E:\Fall 2022\1260\Code\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\ref\InClass-Recursion.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.exe
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.deps.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.runtimeconfig.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\bin\Debug\net6.0\InClass-Recursion.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.csproj.AssemblyReference.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.AssemblyInfoInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.AssemblyInfo.cs
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.csproj.CoreCompileInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\refint\InClass-Recursion.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\InClass-Recursion.genruntimeconfig.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\In Class Code - Notes\InClass-Recursion\InClass-Recursion\obj\Debug\net6.0\ref\InClass-Recursion.dll
